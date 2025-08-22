@@ -24,5 +24,6 @@
 @endsection
 
 @section('footer')
+<img src="{{ asset('images/search1.jpg') }}" alt="search-icon">
 <h2>Footer Section</h2>
 @endsection
