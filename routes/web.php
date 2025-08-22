@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use Illuminate\Http\Request;
+use App\Http\Controllers\PostController;
 
 /*
 |--------------------------------------------------------------------------
@@ -72,3 +73,7 @@ Route::post('/formsubmitted', function (Request $request) {
     return "Your fullname is {$request->input('fullname')} and your email is $email";
 
 })->name('formsubmitted');
+
+
+// Controller
+Route::resource('posts', PostController::class);

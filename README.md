@@ -24,4 +24,11 @@ Laravel Tutorial by Dani Krossing https://www.youtube.com/@Dani_Krossing
 8. Insert Image
    https://youtu.be/wYqgVblzZso?si=NTjiT7GNg4xG6phf
 
-9.
+9. Models & Controllers in Laravel
+   https://youtu.be/C7dyYHloXwc?si=syr4Ir7bCG-lbfyU
+
+10. Create Database Tables in Laravel with Migrations
+    https://youtu.be/XMjzWO-E_dI?si=Gm91R14A4pxqEXlT
+
+11. Laravel Controller Resource Methods Step-by-Step (CRUD Example)
+    https://youtu.be/XAwQUUr1obM?si=vPHJDq2oURn3YHQV
