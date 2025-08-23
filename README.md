@@ -32,3 +32,6 @@ Laravel Tutorial by Dani Krossing https://www.youtube.com/@Dani_Krossing
 
 11. Laravel Controller Resource Methods Step-by-Step (CRUD Example)
     https://youtu.be/XAwQUUr1obM?si=vPHJDq2oURn3YHQV
+
+12. Build a Laravel CRUD App Step-by-Step (Beginner Friendly)
+    https://youtu.be/iTaspHw8w6s?si=DE-_cMab_a0Lt3Ho

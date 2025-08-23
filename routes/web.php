@@ -15,6 +15,10 @@ use App\Http\Controllers\PostController;
 |
 */
 
+// Controller
+// posts.create, posts.store, posts.edit, posts.update
+Route::resource('posts', PostController::class);
+
 // ROUTE GET METHOD
 
 Route::get('/', function () {
@@ -73,7 +77,3 @@ Route::post('/formsubmitted', function (Request $request) {
     return "Your fullname is {$request->input('fullname')} and your email is $email";
 
 })->name('formsubmitted');
-
-
-// Controller
-Route::resource('posts', PostController::class);
